@@ -3,8 +3,8 @@
 -- -----------------------------------------------------
 DROP SCHEMA IF EXISTS `ashokit_ecomm`;
 
-CREATE SCHEMA `ashokit_ecomm`;
-USE `ashokit_ecomm` ;
+CREATE SCHEMA `ecomm`;
+USE `ecomm` ;
 
 -- -----------------------------------------------------
 -- Table `fullstack`.`product_category`
